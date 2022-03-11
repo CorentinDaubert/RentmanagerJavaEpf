@@ -16,4 +16,5 @@ Les Difficultée rencontrées :
  - Je n'ai pas aussi réalisé les fonctions éditer et détails par faute de temps
 
 Commande pour lancer le site :
+mvn clean install exec:java
 mvn tomcat7:run
